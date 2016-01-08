@@ -99,5 +99,8 @@ QUOTES = (
 
     "Vurur yüze ifadesi, kullanıyorum sosyal medyayı bitanesi, eh eh eh eh. "
     "Videosu: https://www.youtube.com/watch?v=YXvxm0y3SME",
+    
+    "(15-20 gün boyunca erişilemeyen .tr domainleri hakkında)"
+    "İki saat yavaşlama, kesilme oldu",
 
 )
